@@ -33,6 +33,8 @@ def plot(file):
   
           lines= plt.plot(xaxis,yaxis)
           plt.setp(lines,linewidth=2)
+  
+  plt.show()
 
 try:
     os.chdir("/home/fatma/Desktop")
