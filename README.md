@@ -1,5 +1,4 @@
 #Genomic_Visualization_System
-Management of NGS data by visualizing them through various aspects in comparison to a reference genome concerns three core functional areas: detect Mutations, assure sequencing covers all exons, and assure sequencing generates reads covering whole reference genome.
 
 Genome Visualization is Python-based tool that visualizes or plots reads in SAM/BAM files to aid in the analysis of data through different
 plotting manners with features enhancing analyzing effects & to aid in the efficacy of reading and manipulating files in the SAM/BAM format.
