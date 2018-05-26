@@ -1,4 +1,4 @@
-#Genomic_Visualization_System
+#Visualization-System-for-Large-Genomic-Datasets
 
 Genome Visualization is Python-based tool that visualizes or plots reads in SAM/BAM files to aid in the analysis of data through different
 plotting manners with features enhancing analyzing effects & to aid in the efficacy of reading and manipulating files in the SAM/BAM format.
